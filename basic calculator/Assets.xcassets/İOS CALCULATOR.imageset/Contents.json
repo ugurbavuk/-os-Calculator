@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "İOS CALCULATOR.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
